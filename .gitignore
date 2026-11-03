@@ -12,3 +12,5 @@ test.js
 screen-capture*.webm
 *.tsbuildinfo
 vite.config.old.ts
+
+# CI Verified

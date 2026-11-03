@@ -58,6 +58,6 @@ Build the static frontend with `npm run build` and deploy the generated `dist/` 
 ## Contact
 
 - Email: [ayushkaushik1441@gmail.com](mailto:ayushkaushik1441@gmail.com)
-- GitHub: [Minato95-ayu](https://github.com/Minato95-ayu)
+- GitHub: [Ghrit-igl](https://github.com/Ghrit-igl)
 - LinkedIn: [Ayush Kaushik](https://www.linkedin.com/in/ayushh-kaushiq-1a950825a)
 - YouTube: [How Computers Think — Zero to Research](https://youtube.com/@ayushkaushik08)
